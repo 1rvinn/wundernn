@@ -1,0 +1,4 @@
+k ensemble on stateless sliding window attention
+4 folds
+0 dropout
+3 layers, best solution.py code

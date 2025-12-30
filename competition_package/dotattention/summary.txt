@@ -1,0 +1,3 @@
+new attention model with dot and better head
+0.395800 during training
+150

@@ -1,0 +1,8 @@
+k ensemble on stateless sliding window attention
+post attention layer norm
+cosineannealingwarmrestart -> t0=5
+better head
+100 seq len, 0.0 dropout
+5 folds
+32 batch size
+GELU

@@ -1,0 +1,4 @@
+150 seq len in sol
+150 in training
+dropout 0.4
+0.1 val split

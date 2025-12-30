@@ -1,0 +1,4 @@
+k ensemble on stateless sliding window attention
+cosineannealingwarmrestart -> t0=8
+100 seq len, 0 dropout
+3 folds

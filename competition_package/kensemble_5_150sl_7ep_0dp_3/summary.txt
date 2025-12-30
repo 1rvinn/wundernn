@@ -1,0 +1,8 @@
+k ensemble on stateless sliding window attention
+5 folds
+0.0 dropout
+150 seq len
+7 epochs
+128 hidden size
+32 batchsize
+3 layers

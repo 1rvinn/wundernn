@@ -1,0 +1,7 @@
+k ensemble on stateless sliding window attention
+cosineannealingwarmrestart -> t0=5
+better head
+150 seq len, 0.0 dropout
+5 folds
+32 batch size
+GELU

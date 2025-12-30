@@ -1,0 +1,4 @@
+stateful model
+0.4 droupout
+5 folds
+120 epochs

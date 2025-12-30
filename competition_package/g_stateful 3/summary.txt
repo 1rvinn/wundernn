@@ -1,0 +1,3 @@
+0.1 val split
+0.4 dropout
+included first 100 for training loss

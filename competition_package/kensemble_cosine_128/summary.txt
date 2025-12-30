@@ -1,0 +1,5 @@
+k ensemble on stateless sliding window attention
+cosineannealingwarmrestart -> t0=5
+100 seq len, 0 dropout
+5 folds
+128 batch size

@@ -1,0 +1,4 @@
+k ensemble on stateless sliding window attention
+5 folds
+0 dropout
+128 hidden size

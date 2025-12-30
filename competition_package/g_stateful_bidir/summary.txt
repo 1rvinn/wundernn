@@ -1,0 +1,2 @@
+0.1 val split
+0.5 dropout

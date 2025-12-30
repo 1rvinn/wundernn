@@ -1,0 +1,4 @@
+150
+feature engg -> volatility - 10 day rolling std and momentum - x(t)-x(t-1)
+256 hs
+3 layers

@@ -1,0 +1,4 @@
+150
+feature engg -> x(t)-x(t-1)
+128 hs
+3 layers

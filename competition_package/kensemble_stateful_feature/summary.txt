@@ -1,0 +1,5 @@
+stateful model
+0.1 droupout
+10 folds
+150 epochs
+feature engg

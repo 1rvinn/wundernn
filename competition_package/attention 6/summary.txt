@@ -1,0 +1,2 @@
+150 seq len in sol
+200/150 in training

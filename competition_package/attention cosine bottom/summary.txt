@@ -1,0 +1,2 @@
+cosineannealingwarmrestart -> t0=5
+100 seq len, 0.0 dropout, val = 0.05 -> trained on top 0.95, bottom 0.05 is val
